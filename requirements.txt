@@ -1,6 +1,5 @@
 aiohttp
 anytree
-aria2p
 asgiref
 asyncio
 beautifulsoup4
@@ -31,14 +30,11 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot==13.15
-qbittorrent-api
-requests
-speedtest-cli
+request
 telegraph
 tenacity
 tgCrypto
 urllib3
 waybackpy
 xattr
-yt-dlp
 
